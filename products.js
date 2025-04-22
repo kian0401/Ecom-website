@@ -27,11 +27,11 @@ const products = [
             },
             {
                 name: "White",
-                mainImage: "images1/Product 1 white.webp",
+                mainImage: "images1/Product 1 white.jpg",
                 thumbnails: [
-                    "images1/Product 1 white.webp",
-                    "images1/Product 1 white.webp",
-                    "images1/Product 1 white.webp"
+                    "images1/Product 1 white.jpg",
+                    "images1/Product 1 white.jpg",
+                    "images1/Product 1 white.jpg"
                 ],
                 sizes: ["S", "M", "L", "XL", "XXL"]
             },
