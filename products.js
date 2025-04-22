@@ -7,9 +7,9 @@ const products = [
         colors: [
             {
                 name: "Black",
-                mainImage: "images1/product1.png",
+                mainImage: "../images1/product1.png",
                 thumbnails: [
-                    "images/product1.png",
+                    "images1/product1.png",
                     "images1/product1.png",
                     "images1/product1.png"
                 ],
