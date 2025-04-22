@@ -7,11 +7,11 @@ const products = [
         colors: [
             {
                 name: "Black",
-                mainImage: "./images1/product1.png",
+                mainImage: "./Images1/product1.png",
                 thumbnails: [
-                    "./images1/product1.png",
-                    "./images1/product1.png",
-                    "./images1/product1.png"
+                    "./Images1/product1.png",
+                    "./Images1/product1.png",
+                    "./Images1/product1.png"
                 ],
                 sizes: ["S", "M", "L", "XL", "XXL"]
             },
