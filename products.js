@@ -17,11 +17,11 @@ const products = [
             },
             {
                 name: "Blue",
-                mainImage: "images1/Product 1 blue.avif",
+                mainImage: "./images1/Product 1 blue.avif",
                 thumbnails: [
-                    "images1/Product 1 blue.avif",
-                    "images1/Product 1 blue.avif",
-                    "images1/Product 1 blue.avif"
+                    "./images1/Product 1 blue.avif",
+                    "./images1/Product 1 blue.avif",
+                    "./images1/Product 1 blue.avif"
                 ],
                 sizes: ["S", "M", "L", "XL", "XXL"]
             },
@@ -29,9 +29,9 @@ const products = [
                 name: "White",
                 mainImage: "images1/Product 1 white.jpg",
                 thumbnails: [
-                    "images1/Product 1 white.jpg",
-                    "images1/Product 1 white.jpg",
-                    "images1/Product 1 white.jpg"
+                    "./images1/Product 1 white.jpg",
+                    "./images1/Product 1 white.jpg",
+                    "./images1/Product 1 white.jpg"
                 ],
                 sizes: ["S", "M", "L", "XL", "XXL"]
             },
